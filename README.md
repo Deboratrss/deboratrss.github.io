@@ -12,10 +12,9 @@ Este projeto foi desenvolvido para apresentar os serviços odontológicos, infor
 ---
 
 ## 📁 Estrutura do Projeto
-/
-├── index.html # Página principal do site
-├── index.css # Estilos CSS personalizados
-├── imagens/ # Imagens utilizadas (banner, ícones)
+├── index.html # Página principal do site\n
+├── index.css # Estilos CSS personalizados\n
+├── imagens/ # Imagens utilizadas (banner, ícones)\n
 └── README.md # Arquivo de documentação do projeto
 
 ---
